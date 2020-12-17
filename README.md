@@ -1,5 +1,5 @@
 ### Hi there, It's Mohasin Hossain 👋
-- 🌱 I’m Full-Stack Web Developer and Python Developer ✨
+- 🌱 I’m a Full-Stack Web Developer and Python Developer ✨
 
 ### Languages and Tools:
 
