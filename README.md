@@ -27,6 +27,22 @@
   </a>
 </p>
 
+
+<br>
+
+<p align="center">
+<img align="middle" alt="Mohasin Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohasin-hossain&show_icons=true&hide_border=false" />
+
+[twitter]: https://twitter.com/mohasinhossain9
+[instagram]: https://instagram.com/mohasin_rajib
+[linkedin]: https://linkedin.com/in/themohasinhossain
+
+</p>
+
+
+<br>
+
+---
 ### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,18 +57,5 @@
 
 
 
-<br>
 
-<br> 
-
-
----
-<p align="center">
-<img align="middle" alt="Mohasin Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohasin-hossain&show_icons=true&hide_border=false" />
-
-[twitter]: https://twitter.com/mohasinhossain9
-[instagram]: https://instagram.com/mohasin_rajib
-[linkedin]: https://linkedin.com/in/themohasinhossain
-
-</p>
 
