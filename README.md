@@ -1,10 +1,10 @@
 <p align="center">
 <img height="280" width ="800" src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </p>
-<h3 align="center">Hi there, It's Mohasin Hossain 👋 </h3>
+<h3 align="center">👋 Hi there, It's Mohasin Hossain 👋 </h3>
 <p align="center">
-🌱 I'm Full-Stack Web Developer and Python Developer 🔥 <br>
-😉 I'm so much passionate about what I do 💕 <br>
+🌱 I'm a Full-Stack Web & Python Developer 🔥 <br>
+😉 I'm immensely passionate about what I do 💕 <br>
 ⚡ My Favourites: Bootstrap, JavaScript, React ✨ <br>
 </p>
 
