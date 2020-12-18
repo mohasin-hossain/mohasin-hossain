@@ -9,24 +9,39 @@
 </p>
 
 <p align="center">
-### Connect with me:
-[<img align="left" alt="Mohasin Hossain | Twiter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mohasin Hossain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mohasin Hossain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-</p>
+  <a href="https://facebook.com/mohasinhossen.rajib" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/mohasinhossen.rajib">
+  </a>
+  
+  <a href="https://twitter.com/mohasinhossain9" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mohasinhossain9">
+  </a>
+  <a href="mailto:mohasinhossainrajib2@gmail.com?subject=Hello Dear Mohasin Hossain! I send this message from your Github Profile. I need to talk to you for some quries!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohasinhossainrajib2@gmail.com">
+  </a>
+  <a href="https://github.com/mohasin-hossain" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mohasin-hossain?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/mohasin-hossain" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mohasin-hossain&label=Views&color=brightgreen&style=flat" alt="Mohasin Hossain" />
+  </a>
+</p
 
 
 
 <br>
 
 
-### Languages and Tools:
-
+<p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</p>
+
+
+
 
 
 
