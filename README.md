@@ -1,11 +1,20 @@
-### Hi there, It's Mohasin Hossain 👋
-- 🌱 I’m a Full-Stack Web Developer and Python Developer ✨
+<p align="center">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</p>
+<h3 align="center">Hi there, It's Mohasin Hossain 👋 </h3>
+<p align="center">
+🌱 I'm Full-Stack Web Developer and Python Developer 🔥 <br>
+😉 I'm so much passionate about what I do 💕 <br>
+⚡ My Favourites: Bootstrap, JavaScript, React ✨ <br>
+</p>
 
+<p align="center">
 ### Connect with me:
-
 [<img align="left" alt="Mohasin Hossain | Twiter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mohasin Hossain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mohasin Hossain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
+
 
 
 <br>
