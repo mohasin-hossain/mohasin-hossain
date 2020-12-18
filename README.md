@@ -4,7 +4,7 @@
 <h3 align="center">👋 Hi there, It's Mohasin Hossain 👋 </h3>
 <p align="center">
 🌱 I'm a Full-Stack Web & Python Developer 🔥 <br>
-😉 I'm immensely passionate about what I do 💕 <br>
+😉 I'm very passionate about what I do 💕 <br>
 ⚡ Favourites: Bootstrap, JavaScript, React ✨ <br>
 </p>
 
