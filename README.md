@@ -58,7 +58,7 @@
 
 
 ---
-<img align="center" alt="Mohasin Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohasin-hossain&show_icons=true&hide_border=false" />
+<img align="middle" alt="Mohasin Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohasin-hossain&show_icons=true&hide_border=false" />
 
 [twitter]: https://twitter.com/mohasinhossain9
 [instagram]: https://instagram.com/mohasin_rajib
