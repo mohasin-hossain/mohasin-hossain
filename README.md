@@ -5,7 +5,7 @@
 <p align="center">
 🌱 I'm a Full-Stack Web & Python Developer 🔥 <br>
 😉 I'm immensely passionate about what I do 💕 <br>
-⚡ My Favourites: Bootstrap, JavaScript, React ✨ <br>
+⚡ Favourites: Bootstrap, JavaScript, React ✨ <br>
 </p>
 
 <p align="center">
