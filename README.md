@@ -4,11 +4,14 @@ I'm a passionate **Full Stack Web Developer** focused on building modern, perfor
 
 ## 🧠 Core Competencies
 
-- **Frontend Development:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI, ShadCN UI, Vite  
-- **Backend Development:** Node.js, Express.js, RESTful APIs, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, Mongoose  
-- **Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Linux Environments
-  
+- **Languages:** JavaScript, TypeScript, Python, HTML/CSS  
+- **Frontend Development:** React.js, Next.js, React Query, NextAuth, GSAP, Framer Motion, Styled Components, SCSS, TailwindCSS, Bootstrap, DaisyUI, Material UI, ShadCN  
+- **Backend Development:** Node.js, Express.js, GraphQL, Firebase  
+- **Databases:** MongoDB (Mongoose), PostgreSQL  
+- **Authentication:** JWT, NextAuth, Firebase Authentication  
+- **Version Control & IDEs:** Git, GitHub, VS Code  
+- **Deployment:** Vercel, Netlify  
+
 ### 📫 Connect With Me
 
 - ✉️ Email: [mohasinhossainrajib2@gmail.com](mailto:mohasinhossainrajib2@gmail.com)  
