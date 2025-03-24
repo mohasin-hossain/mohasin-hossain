@@ -4,8 +4,6 @@ I'm a passionate **Full Stack Web Developer** focused on building modern, perfor
 
 Currently pursuing my Master’s in Bioinformatics at Saarland University, I’m also exploring intersections between tech and science. I’ve worked on multiple projects using React Query, Next.js, NextAuth, GSAP, Framer Motion, and a range of UI libraries like TailwindCSS, Material UI, ShadCN, and Styled Components.
 
-💡 Always curious, I love learning new tools, working on real-world projects, and collaborating in diverse teams.
-
 ## 🧠 Core Competencies
 
 - **Languages:** JavaScript, TypeScript, Python, HTML/CSS  
