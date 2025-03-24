@@ -8,6 +8,14 @@
 ⚡ Favourites: React, Next, TailwindCSS ✨ <br>
 </p>
 
+## 🧠 Core Competencies
+
+- **Frontend Development:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI, ShadCN UI, Vite  
+- **Backend Development:** Node.js, Express.js, RESTful APIs, GraphQL  
+- **Databases:** PostgreSQL, MongoDB, Mongoose  
+- **Version Control & Deployment:** Git, GitHub, Vercel, Netlify, Linux Environments
+
+
 <p align="center">
   <a href="https://facebook.com/mohasinhossen.rajib" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/mohasinhossen.rajib">
