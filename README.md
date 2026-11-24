@@ -5,10 +5,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/themohasinhossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mohasinhossainrajib2@gmail.com"><img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://arxiv.org/abs/2607.01416"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/></a>
 </p>
 
-I build and study AI systems that can explain their decisions. I'm a Research Assistant at the Interactive Machine Learning Lab, [DFKI](https://www.dfki.de), and an M.Sc. Bioinformatics student at Saarland University, Germany. My work connects machine learning research, production-grade engineering, and the life sciences.
+I research and build AI systems that can explain their decisions.
+
+I work as a Research Assistant at the Interactive Machine Learning Lab at [DFKI](https://www.dfki.de) and am completing an M.Sc. in Bioinformatics at [Saarland University](https://www.uni-saarland.de), Germany. My work spans three areas: deep learning and explainable AI research, full-stack and LLM-based engineering, and computational biology, from molecular docking and dynamics simulations to genomic data analysis.
 
 ## Selected Research
 
@@ -21,7 +22,7 @@ I build and study AI systems that can explain their decisions. I'm a Research As
     <td valign="top">
       <b>Beyond Heatmaps: Unsupervised Concept-Graph Reasoning for Interpretable Visual Explanation</b><br>
       Annotation-free concept discovery with NMF and graph attention reasoning for intrinsically interpretable image classification.<br>
-      <a href="https://arxiv.org/abs/2607.01416">Paper</a> &nbsp;/&nbsp; <a href="https://github.com/mohasin-hossain/G-CBM">Code</a>
+      <a href="https://arxiv.org/abs/2607.01416">Paper</a> &nbsp;/&nbsp; <a href="https://sites.google.com/view/xai-workshop-ijcai-2026/proceedings">Proceedings</a> &nbsp;/&nbsp; <a href="https://github.com/mohasin-hossain/G-CBM">Code</a>
     </td>
   </tr>
   <tr>
@@ -89,6 +90,8 @@ I build and study AI systems that can explain their decisions. I'm a Research As
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Molecular Docking](https://img.shields.io/badge/Molecular_Docking-0891b2?style=flat-square)
 ![Molecular Dynamics](https://img.shields.io/badge/Molecular_Dynamics-0891b2?style=flat-square)
+![Structural Bioinformatics](https://img.shields.io/badge/Structural_Bioinformatics-0891b2?style=flat-square)
+![Genomic Data Analysis](https://img.shields.io/badge/Genomic_Data_Analysis-0891b2?style=flat-square)
 
 <br>
 
