@@ -98,3 +98,7 @@ I work as a Research Assistant at the Interactive Machine Learning Lab at [DFKI]
 <p align="center">
   <b>Open to research collaborations, AI engineering roles, and conversations about interpretable ML and AI for science.</b>
 </p>
+
+<p align="center">
+  <img src="./footer.svg" width="100%" alt=""/>
+</p>
